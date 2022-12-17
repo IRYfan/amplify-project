@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>Hello Aws Amplify</h1>
     </div>
   );
 }
