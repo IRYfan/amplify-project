@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifyprojectacf03b55": {}
+      },
+      "api": {
+        "amplifyproject": {}
       }
     }
   }
